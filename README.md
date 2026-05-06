@@ -151,6 +151,22 @@ The project helps identify:
 
 ---
 
+# Dashboard Preview
+
+## Summary Dashboard
+
+![Summary Dashboard](https://github.com/AnshuPalsande/Loan-Analysis-Dashboard/blob/ead383b12c5d37aa5f93afd5f473918489e73ded/Summary%20Page.png)
+
+## Overview Dashboard
+
+![Overview Dashboard](https://github.com/AnshuPalsande/Loan-Analysis-Dashboard/blob/ead383b12c5d37aa5f93afd5f473918489e73ded/Overview%20Page.png)
+
+## Details Dashboard
+
+![Details Dashboard](https://github.com/AnshuPalsande/Loan-Analysis-Dashboard/blob/ead383b12c5d37aa5f93afd5f473918489e73ded/Details%20Page.png)
+
+---
+
 # Tools & Skills Demonstrated
 
 - Data Cleaning
